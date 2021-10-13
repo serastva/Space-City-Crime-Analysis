@@ -4,7 +4,9 @@ Space City Crime Analysis
 
 Resources:
 https://www.houstontx.gov/police/cs/crime-stats-archives.htm NIRBS police data for year 2020
+
 census.gov Tract Data 
+
 nominatim.org (Lat Long data) 
 
 Goal: 
